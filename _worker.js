@@ -13,7 +13,7 @@ let userID = '866853eb-5293-4f09-bf00-e13eb237c655';
 let proxyIPs;
 
 // if you want to use ipv6 or single proxyIP, please add comment at this line and remove comment at the next line
-let proxyIP = '';//
+let proxyIP = 'proxyip.us.fxxk.dedyn.io';//
 
 let sub = '';// 留空则使用内置订阅
 let subconverter = 'url.v1.mk';// clash订阅转换后端，自带虚假uuid和host订阅。
