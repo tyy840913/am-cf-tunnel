@@ -11,3 +11,8 @@
 103.160.204.169:2082#HK
 103.160.204.227:2086#HK
 103.160.204.227:2095#HK
+icook.hk:443#t.me/AM_CLUBS
+visa.cn:443#youtube.com/@AM_CLUB
+[2a01:4f8:c2c:123f:64:5:6810:c55a]:2095#官方优选域名
+visa.cn:443#加入频道t.me/AM_CLUBS解锁更多优选节点
+visa.cn:443#订阅频道youtube.com/@AM_CLUB获取更多教程
